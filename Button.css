@@ -1,0 +1,37 @@
+body{
+    background-color:whitesmoke;
+}
+.box1{
+    width: 180px;
+    padding: 20px;
+    border: solid 2px black;
+}
+.boton1{
+    background-color: grey; 
+    border: solid 1px darkcyan;
+    padding: 8px;
+    color: aqua;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+}
+.boton2{
+    background-color:aqua; 
+    border: none;
+    width: 50px;
+    height: 50px;
+    color: black;
+    font-weight: bold;
+    border-radius: 50%;
+    margin-right: 100px;
+    margin-bottom: 10px;
+}
+.boton3{
+    background-color: royalblue;
+    border: solid 2px black;
+    padding: 8px;
+    color: white;
+    font-size:20px ;
+    box-shadow: 3px 3px red, -0.5em 0.4em olive;
+}
